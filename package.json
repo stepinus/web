@@ -10,7 +10,8 @@
   "devDependencies": {
     "husky": "^2.4.1",
     "lerna": "^3.20.2",
-    "tslint": "^5.17.0"
+    "tslint": "^6.0.0",
+    "typescript": "^3.7.5"
   },
   "husky": {
     "hooks": {
